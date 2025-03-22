@@ -1,0 +1,31 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.bg-content {
+    height: 640px;
+}
+
+.bg-color {
+    background-color: #f2f4f7;
+    height: 510px;
+}
+
+.outer-box-container {
+    border: 2px black solid;
+}
+
+.fb-name-img img {
+    width: 240px;
+}
+
+/* #input-text {
+    width: 364px;
+    height: 63px;
+} */
+
+.links ul {
+    display: flex;
+}
